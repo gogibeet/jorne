@@ -33,11 +33,9 @@ Please buy Jian from its author, [/u/KgOfHedgehogs](http://reddit.com/u/KgOfHedg
 
 * [jorne-simple.dxf](https://github.com/joric/crkbd/raw/jorne/dxf/jorne-simple.dxf) (simple case, sheet size 154x154mm)
 
-![](images/jorne-simple.png)
+### 3d Print
 
-* [jorne-tilted.dxf](https://github.com/joric/crkbd/raw/jorne/dxf/jorne-tilted.dxf) (tilting-tenting case, sheet size 156x165mm)
-
-![](images/jorne-tilted.png)
+* [Case on Thingiverse](https://www.thingiverse.com/thing:4647173) (simple case)
 
 ### Steel (14.00mm cutouts)
 
